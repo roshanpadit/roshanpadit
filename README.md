@@ -33,14 +33,10 @@
 
 ---
 
-## 🛠 Featured Projects (Uploading Soon...)
+## 🛠 Featured Projects 
 
 - 🔋 Solar Power Calculator (Python)  
-- ⚡ Buck/Boost Converter Simulation (MATLAB/Simulink)  
-- 🌡 IoT Temperature Logger (ESP32 + Firebase)  
-- 🔌 Power Factor Correction Simulation  
-- 🔋 Battery SOC Estimation – MATLAB  
-
+- ⚡ Home Energy Analyzer 
 ---
 
 ## 📊 GitHub Performance
